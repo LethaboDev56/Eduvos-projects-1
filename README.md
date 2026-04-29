@@ -1,2 +1,3 @@
 # Eduvos-projects-1
-Aspiring IT professional | Eduvos graduate | Interested in software development
+Projects completed during my Higher Certificate in Information Systems at Eduvos. 
+Includes practical work in programming, databases, and system development.
